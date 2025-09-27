@@ -2,33 +2,29 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Tan Hung</h1>
+  <h3 align="center"> -A passionate developer from Vietnam-</h3>
 </div>
+
+
+- 🎓 I'm currently studying **Information Technology** at **An Giang University**  
+- 🌱 I’m currently learning **English** and improving my **personal skills** 
+- 🎯 Goal: To become a **Fullstack Developer**
+- ⚡ Fun fact: ☕ I love coffee so much 
 
 ## 🔗 Connect with me
 <p align="center">
   <a href="https://github.com/TanHung189" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://facebook.com/your-facebook-id" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/buidotanhung-634832319" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/tan.hung.492771" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" style="fill:#1877F2;"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:hung189@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
   </a>
 </p>
 
-<!--
-**TanHung189/TanHung189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
