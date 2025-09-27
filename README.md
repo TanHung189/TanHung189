@@ -7,13 +7,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=TanHung189&label=Profile%20views&color=0e75b6&style=flat)
 
+### About me
 - 🎓 I'm currently studying **Information Technology** at **An Giang University**  
 - 🌱 I’m currently learning **English** and improving my **personal skills** 
 - 🎯 Goal: To become a **Fullstack Developer**
 - ⚡ Fun fact: ☕ I love coffee so much 
 
+<br>
 
-## Connect with me:
+### Connect with me:
 <p>
   <a href="https://github.com/TanHung189" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
@@ -29,7 +31,9 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+<br>
+
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanHung189&theme=radical" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHung189&layout=compact&theme=radical"/>
