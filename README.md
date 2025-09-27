@@ -1,5 +1,4 @@
-## Hi there 👋
-(https://www.linkedin.com/in/buidotanhung-634832319/overlay/background-image/)
+![](assests/my_pic.jpg)
 <!--
 **TanHung189/TanHung189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
